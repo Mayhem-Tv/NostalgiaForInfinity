@@ -2,9 +2,9 @@
 
 # Settings
 url_nfi=https://api.github.com/repos/iterativv/NostalgiaForInfinity/releases/latest
-bot_strategy_path=/bot/user_data/strategies # <- Replace this with your own path (e.g. /home/user/bot/user_data/strategies)
-telegram_token=123123:123123 # <- Replace with your telegram bot token (e.g. 123123:123123)
-telegram_chat_id=123123 # <- Replace with your telegram chat id (e.g. 123123)
+bot_strategy_path=/ft_userdata/user_data/strategies # <- Replace this with your own path (e.g. /home/user/bot/user_data/strategies)
+telegram_token=15232175834:AAFZ6eRMujdaEy_ZUfpJf2-QjWbxnv6ysig # <- Replace with your telegram bot token (e.g. 123123:123123)
+telegram_chat_id=493383140 # <- Replace with your telegram chat id (e.g. 123123)
 ##########
 
 # Get latest release and copy it to bot_strategy_path
